@@ -44,7 +44,7 @@ The model performance is evaluated using:
 House-Price-Prediction
 
  house_price_prediction.ipynb
- README.md
+ README.md/
  images
 
 ## Future Improvements

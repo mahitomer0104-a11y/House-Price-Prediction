@@ -43,9 +43,9 @@ The model performance is evaluated using:
 ## Project Structure
 House-Price-Prediction
 
-├── house_price_prediction.ipynb
-├── README.md
-└── images
+ house_price_prediction.ipynb
+ README.md
+ images
 
 ## Future Improvements
 - Add more ML algorithms

@@ -41,11 +41,11 @@ The model performance is evaluated using:
 - R2 Score
 
 ## Project Structure
-House-Price-Prediction/
-│
+House-Price-Prediction
+
 ├── house_price_prediction.ipynb
 ├── README.md
-└── images/
+└── images
 
 ## Future Improvements
 - Add more ML algorithms
